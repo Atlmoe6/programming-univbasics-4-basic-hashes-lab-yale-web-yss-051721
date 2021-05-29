@@ -1,9 +1,9 @@
 def new_hash
- :love => {}
+ {}
 end
 
 def my_hash
-  :key => doe 
+  {:key => doe}
 end
 
 def pioneer
