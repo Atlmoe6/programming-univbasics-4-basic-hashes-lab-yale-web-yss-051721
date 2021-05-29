@@ -1,5 +1,5 @@
 def new_hash
-  {}
+ :love = {}
 end
 
 def my_hash
